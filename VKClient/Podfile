@@ -1,0 +1,13 @@
+platform :ios, ’10.0’
+
+target 'VKClient' do
+
+  target 'VKClientTests' do
+
+  end
+
+  target 'VKClientUITests' do
+
+  end
+
+end
